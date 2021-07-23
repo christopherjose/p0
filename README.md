@@ -9,7 +9,7 @@ deliveries.
 	- create a new customer entry
 	- schedule a sales order for delivery or pickup
 	- look up inventory information
-	- take a credit card payment
+	- record a payment made
 
 
 #POS Structure Description
