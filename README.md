@@ -12,7 +12,7 @@ deliveries.
 	- take a credit card payment
 
 
-#POS Structure Description
+#POS Structure Description#
 I've conceptualized the POS as consisting of two main menus. 
 The **Main Menu** contains information not specific to a given order: inventory, customer accounts, miscellaneous.  
 The **Order Menu** allows for viewing/editing one order at a time.  So if you've selected a particular order in it, then when selecting a given menu option, you will typically be presented with information for that specific order, like customer info.
