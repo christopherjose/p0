@@ -7,7 +7,7 @@
     <groupId>com.git.christopherjose</groupId>
     <artifactId>p0</artifactId>
     <version>1.0-SNAPSHOT</version>
-    
+
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
