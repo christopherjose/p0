@@ -74,12 +74,12 @@ public class POS {
 			}
 		}	
 	}	
-	
+	public
 	
 	public void runCustomerMenu() {
-	
+
 		while(true) {
-			
+
 			custMenu();
 			String nameInput = scanner.nextLine();
 			if(nameInput.equals("b")){break;}
@@ -162,7 +162,6 @@ public void custMenu() {
 	System.out.println("Specify Customer Name (‘b’ to exit)");
 	System.out.println("- Press Enter to leave blank.");
 	System.out.println("");
-	
 }
 
 public void custSubMenu1() {

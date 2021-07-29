@@ -1,0 +1,19 @@
+product_id,vendor_name,Type,product_name,size,disposition,sticker_price,quantity,atp_date
+p0000,Amazing Sleep,Mattress,Hybrid Mattress,Queen,Outlet,3999,2,8/15/21
+p0001,Sleep Shop,Frame,Box Spring,Queen,New,199,54,8/4/21
+p0002,Sleep Shop,Frame,Plus Frame,Queen,New,99,139,8/4/21
+p0003,Sleep Shop,Pillow,Memory Foam Pillow,Standard,New,40,5,8/7/21
+p0004,Sleep Shop,Sheets,Tencel Sheet Set,Queen,New,350,15,8/4/21
+p0005,Better-Pedic,Mattress,Bed-In-A Box Memory Foam Mattress ,Full,Floor,999,0,12/31/49
+p0006,Sleep Shop,Frame,Platform Frame,Full,Outlet,199,1,8/4/21
+p0007,Sleep Shop,Protector,Total Encasement Mattress Protector,Full,New,150,8,8/6/21
+p0008,Sleep Shop,Sheets,Microfiber Sheet Set,Full,New,50,17,8/15/21
+p0009,Sleep Shop,Pillow,Gel Memory Foam Pillow,Queen,New,99,43,8/4/21
+p0010,Mattress Maker,Mattress,Innerspring Mattress,Full,Outlet,999,2,8/6/21
+p0011,Sleep Shop,Adjustable,Adjustable Base,Twin,Floor,799,7,8/4/21
+p0012,Elite Coils ,Mattress,Luxury Pillowtop Mattress,California King,New,6999,9,8/4/21
+p0013,Sleep Shop,Mattress,Latex Mattress,Queen,Outlet,4499,1,8/7/21
+p1111,Service,Delivery,White Glove Delivery,White Glove,New,99,9999,12/31/49
+p1112,Service,Delivery,Standard Delivery,Standard,New,0,9999,12/31/49
+p1113,Service,Service,Mattress Removal,Standard,New,0,9999,12/31/49
+p9999,Service,Service,Accommodation Request,Standard,New,0,9999,12/31/49

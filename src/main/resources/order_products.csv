@@ -1,0 +1,21 @@
+order_id,product_id,product_name,size,disposition,quantity,sticker_price,sale_price,perc_discount,total_sale_price
+s0000,p0000,Hybrid Mattress,Queen,Outlet,1,3999,1300,67,1300
+s0000,p0001,Box Spring,Queen,New,1,199,199,0,119
+s0000,p0002,Plus Frame,Queen,New,1,99,99,0,99
+s0000,p0003,Memory Foam Pillow,Standard,New,2,40,30,25,60
+s0000,p0004,Tencel Sheet Set,Queen,New,1,350,166,53,166
+s0000,p1111,White Glove Delivery,White Glove,New,1,99,80,19,80
+s0000,p1113,Mattress Removal,Standard,New,1,0,0,0,0
+s0000,p9999,Accommodation Request,Standard,New,1,0,0,0,0
+s0001,p0005,Bed-In-A Box Memory Foam Mattress ,Full,Floor,1,999,499,50,499
+s0001,p0006,Platform Frame,Full,Outlet,1,199,100,50,100
+s0001,p0007,Total Encasement Mattress Protector,Full,New,1,150,60,60,60
+s0001,p0008,Microfiber Sheet Set,Full,New,1,50,40,20,40
+s0001,p0009,Gel Memory Foam Pillow,Queen,New,1,99,51,48,51
+s0002,p0010,Innerspring Mattress,Full,Outlet,1,999,499,50,499
+s0002,p1112,Standard Delivery,Standard,New,1,0,0,0,0
+s0003,p0011,Adjustable Base,Twin,Floor,1,799,499,38,499
+s0004,p0012,Luxury Pillowtop Mattress,California King,New,1,6999,4999,29,4999
+s0004,p1111,White Glove Delivery,White Glove,New,1,99,0,100,0
+s0004,p9999,Accommodation Request,Standard,New,1,0,0,0,0
+s0004,p1113,Mattress Removal,Standard,New,1,0,0,0,0

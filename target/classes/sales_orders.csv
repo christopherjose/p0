@@ -1,0 +1,6 @@
+order_id,customer_id,status,comment,sales_associate,order_date,sub_total,sales_tax,total_order_amount,payments,financing,balance_due
+s0000,c0000,Paid,Drivers can block driveway in front residence,Christopher Jose,8/2/21,1824,157.32,1981.32,1981.32,0,0
+s0001,c0001,Invoiced,,Christopher Jose,8/1/21,750,64.6875,814.6875,814.6875,0,0
+s0002,c0002,Paid,Delivery time request: 1-3pm,Christopher Jose,7/29/21,499,43.03875,542.03875,542.03875,0,0
+s0003,c0004,Unpaid,,Christopher Jose,8/3/21,499,43.03875,542.03875,542.03875,0,0
+s0004,c0003,Invoiced,,Christopher Jose,7/15/21,4999,431.16375,5430.16375,5430.16375,0,0
