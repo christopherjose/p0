@@ -18,14 +18,14 @@ deliveries.
 - The **Order Menu** allows for viewing/editing one order at a time.  So if you've selected a particular order in it, then when selecting a given menu option, you will typically be presented with information for that specific order, like customer info.
 
 
-# Main Menu
+Main Menu
 1. Order        ---> brings you to Order Menu
 2. Inventory    ---> look up products by name & size to view (quantity & soonest delivery day: ATP Date)
 3. Customer     ---> look up customer info from inputting (name and/or phone # and/or address)
 5. System       ---> NA 
 6. Exit         ---> exit program
 
-# Order Menu
+Order Menu
 1. View Order     ---> view current invoice, which combines info from Inventory, Customer, Delivery
 2. Inventory      ---> look up and add products and their prices to order
 3. Customer       ---> view and edit current customer info
