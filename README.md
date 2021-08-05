@@ -32,8 +32,8 @@ Order Menu
 4. Delivery       ---> view and edit delivery day for current order (at most, 30 days out)
 5. Load           ---> load an existing order into the Order Menu, populating View Order, Customer, etc.
 6. New            ---> reset Order Menu (wipe it) without saving, thus starting a new order
-<<<<<<< HEAD
+
 7. Exit           ---> return to Main Menu
 =======
 7. Exit           ---> return to Main Menu
->>>>>>> origin/main
+
